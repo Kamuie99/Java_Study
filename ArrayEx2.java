@@ -24,7 +24,7 @@ public class ArrayEx2 {
 		System.out.println(Arrays.toString(iArr3));
 		System.out.println(Arrays.toString(chArr));
 		System.out.println(iArr3);
-		System.out.println(chArr);
+		System.out.println(chArr);//
 	}
 
 }
